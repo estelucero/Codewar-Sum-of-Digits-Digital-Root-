@@ -1,0 +1,15 @@
+C:\Users\estel\source\repos\Sum of Digits - Digital Root\Sum of Digits - Digital Root\obj\Debug\net6.0\Sum of Digits - Digital Root.csproj.AssemblyReference.cache
+C:\Users\estel\source\repos\Sum of Digits - Digital Root\Sum of Digits - Digital Root\obj\Debug\net6.0\Sum of Digits - Digital Root.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estel\source\repos\Sum of Digits - Digital Root\Sum of Digits - Digital Root\obj\Debug\net6.0\Sum of Digits - Digital Root.AssemblyInfoInputs.cache
+C:\Users\estel\source\repos\Sum of Digits - Digital Root\Sum of Digits - Digital Root\obj\Debug\net6.0\Sum of Digits - Digital Root.AssemblyInfo.cs
+C:\Users\estel\source\repos\Sum of Digits - Digital Root\Sum of Digits - Digital Root\obj\Debug\net6.0\Sum of Digits - Digital Root.csproj.CoreCompileInputs.cache
+C:\Users\estel\source\repos\Sum of Digits - Digital Root\Sum of Digits - Digital Root\bin\Debug\net6.0\Sum of Digits - Digital Root.exe
+C:\Users\estel\source\repos\Sum of Digits - Digital Root\Sum of Digits - Digital Root\bin\Debug\net6.0\Sum of Digits - Digital Root.deps.json
+C:\Users\estel\source\repos\Sum of Digits - Digital Root\Sum of Digits - Digital Root\bin\Debug\net6.0\Sum of Digits - Digital Root.runtimeconfig.json
+C:\Users\estel\source\repos\Sum of Digits - Digital Root\Sum of Digits - Digital Root\bin\Debug\net6.0\Sum of Digits - Digital Root.dll
+C:\Users\estel\source\repos\Sum of Digits - Digital Root\Sum of Digits - Digital Root\bin\Debug\net6.0\Sum of Digits - Digital Root.pdb
+C:\Users\estel\source\repos\Sum of Digits - Digital Root\Sum of Digits - Digital Root\obj\Debug\net6.0\Sum of Digits - Digital Root.dll
+C:\Users\estel\source\repos\Sum of Digits - Digital Root\Sum of Digits - Digital Root\obj\Debug\net6.0\refint\Sum of Digits - Digital Root.dll
+C:\Users\estel\source\repos\Sum of Digits - Digital Root\Sum of Digits - Digital Root\obj\Debug\net6.0\Sum of Digits - Digital Root.pdb
+C:\Users\estel\source\repos\Sum of Digits - Digital Root\Sum of Digits - Digital Root\obj\Debug\net6.0\Sum of Digits - Digital Root.genruntimeconfig.cache
+C:\Users\estel\source\repos\Sum of Digits - Digital Root\Sum of Digits - Digital Root\obj\Debug\net6.0\ref\Sum of Digits - Digital Root.dll
